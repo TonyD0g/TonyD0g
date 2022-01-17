@@ -6,7 +6,7 @@
 - 普通本科在读，网安专业
 - 目前主要在学Web安全
 - 菜狗一枚，只会偷学别人技术的屑
-- 我的博客：[https://Tonyd0g.github.io/](https://tonyd0g.github.io/)
+- 我的博客：[https://Tonyd0g.github.io/](https://tonyd0g.gitee.io/)
 - 个人博客我会以一个网安新手的角度来分享一些文章
 PS:毕竟我也不是什么大哥 -_-||
 <br>

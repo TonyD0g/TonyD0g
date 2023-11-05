@@ -3,12 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/TonyD0g?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/TonyD0g?style=social)   ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=TonyD0g.readme)
 
 ### 简介
-- 普通本科在读，网安专业
-- 目前什么都学，什么都学不会
 - 安全圈边缘人兼混子一枚，主要擅长偷师
 - 正在不断追寻各位师傅的脚步~
 - 我的博客：[https://Tonyd0g.gitee.io/](https://tonyd0g.gitee.io/)
 - 个人博客仅对学习做记录，并`无技术含量`
+- 目前正在开发 [GoPoc](https://github.com/TonyD0g/GoPoc) 、 [JSPHunter](https://github.com/TonyD0g/JSPHunter)
 
 <br>
 

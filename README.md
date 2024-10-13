@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyD0g)
 
 
-<h4>特别声明：<br>严禁利用所提到的漏洞和技术进行非法攻击，否则后果自负，本人不承担任何责任!</h4>
+<h4>特别声明：<br>严禁利用所提到的漏洞和技术进行非法攻击，否则后果自负，本人不承担任何责任! 分享技术只是为了相互学习，精进自身技术</h4>
 
-<h4>Special statement:<br>It is strictly prohibited to use the bugs and technologies mentioned to illegal attacks, otherwise the consequences shall be borne by yourself and I shall not bear any responsibility!</h4>
+<h4>Special statement:<br>It is strictly prohibited to use the bugs and technologies mentioned to illegal attacks, otherwise the consequences shall be borne by yourself and I shall not bear any responsibility! Sharing technology is just for mutual learning and improving one's own skills</h4>
 

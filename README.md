@@ -5,7 +5,9 @@
 ### 简介
 - 边缘人兼混子一枚/屎山编写砖家/只会学大牛们的骚思路
 - 正在不断追寻各位师傅的脚步~
-- 目前正在开发 [GoPoc](https://github.com/TonyD0g/GoPoc) (工作中要用到,大概率更新)、[CodeHunter](https://cn.bing.com/search?q=%E8%87%AA%E7%A0%94%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8F%E7%8E%A9%E5%85%B7%EF%BC%8C%E4%B8%8D%E6%8F%90%E4%BE%9B%E6%BA%90%E7%A0%81&qs=ds&form=QBRE&pc=MOZI)
+- 目前正在开发：
+    [GoPoc](https://github.com/TonyD0g/GoPoc) (工作中要用到,大概率更新)
+    [CodeHunter](https://cn.bing.com/search?q=%E8%87%AA%E7%A0%94%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8F%E7%8E%A9%E5%85%B7%EF%BC%8C%E4%B8%8D%E6%8F%90%E4%BE%9B%E6%BA%90%E7%A0%81&qs=ds&form=QBRE&pc=MOZI)
 
 <br>
 

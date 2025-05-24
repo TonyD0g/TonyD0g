@@ -7,7 +7,7 @@
 - 正在不断追寻各位师傅的脚步~
 - 目前正在开发：
    <br> 基于 Json 、自定义Go脚本的多协程验证扫描器，用于快速验证目标是否存在该漏洞或深层次利用: [GoPoc](https://github.com/TonyD0g/GoPoc) 
-   <br> [CodeHunter](https://cn.bing.com/search?q=%E8%87%AA%E7%A0%94%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8F%E7%8E%A9%E5%85%B7%EF%BC%8C%E4%B8%8D%E6%8F%90%E4%BE%9B%E6%BA%90%E7%A0%81&qs=ds&form=QBRE&pc=MOZI)
+q=%E8%87%AA%E7%A0%94%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B0%8F%E7%8E%A9%E5%85%B7%EF%BC%8C%E4%B8%8D%E6%8F%90%E4%BE%9B%E6%BA%90%E7%A0%81&qs=ds&form=QBRE&pc=MOZI)
 
 <br>
 

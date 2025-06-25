@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/TonyD0g?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/TonyD0g?style=social)   ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=TonyD0g.readme)
 
 ### 简介
-- 边缘人兼混子一枚/屎山编写砖家/只会学大牛们的骚思路
+- 边缘人兼混子一枚/屎山编写+小玩具制造者/只会学大牛们的骚思路
 - 正在不断追寻各位师傅的脚步~
 - 目前正在开发：
    <br> 基于 Json 、自定义Go脚本的多协程验证扫描器，用于快速验证目标是否存在该漏洞或深层次利用: [GoPoc](https://github.com/TonyD0g/GoPoc) 

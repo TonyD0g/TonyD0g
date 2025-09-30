@@ -5,10 +5,7 @@
 ### 简介
 - 边缘人兼混子一枚/屎山编写+小玩具制造者/只会学大牛们的骚思路
 - 正在不断追寻各位师傅的脚步~
-- 目前正在开发：
-   <br> 基于 Json 、自定义Go脚本的多协程验证扫描器，用于快速验证目标是否存在该漏洞或深层次利用: [GoPoc](https://github.com/TonyD0g/GoPoc) 
-
-<br>
+- 随缘开发小玩具
 
 <img src='https://s4.ax1x.com/2022/02/19/HqcbB8.jpg' align='right' style=' width:240px;height:240 px'/>
 
